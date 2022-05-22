@@ -3,6 +3,9 @@
 #### ALUNO:
     Erimilson Edilson Silva Ribeiro
 .
+##### ENTREGUE
+    Sexta-feira 20/05/2022 ás 18h50m
+.
 #### DISCIPLINA
     Introdução a Lógica de Programação
 .
@@ -23,7 +26,7 @@
     q3.py - Escolher 3 númeos inteiros e distintos. Maior que 0 e menor que 30.
     q4.py - Ler, Nome, Idade e Sexo. Informa a Mulher Mais Velha e Idade do Homem mais novo
     q5.py - Calcula o Lucro de um Estacionamento de um Shopping
-    q6.py - O programa que gere 5 palpites para apostar na mega-sena
+    q6.py - O programa que gera Palpites para apostar na mega-sena
     q7.py - Leia a média de 20 alunos e informe quantos foram aprovados. A nota mínima para aprovação é 7.
     q8.py - O Sistema Informa o escolhido para Defender Asgard
     q9.py - O Sistema Informa qual jogo para PlayStation é o favorito entre 35 Alunos

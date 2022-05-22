@@ -3,6 +3,9 @@
 #### ALUNO:
     Erimilson Edilson Silva Ribeiro
 .
+##### ENTREGUE
+    Sábado 21/05/2022 ás 21h50m
+.
 #### DISCIPLINA
     Introdução a Lógica de Programação
 .
@@ -11,7 +14,7 @@
 .
 #### 3.Simulado
     q1.py - Gera 50 números e Imprimir os N. Pares e Impares
-    q2.py - Ler 2 números e informa se é múltiplo de 2 e 3.
+    q2.py - Ler um números e informa se é múltiplo de 2 e 3.
     q3.py - Exibe 30 termos do Somátorio: S = 2/3 + 6/4 + 3/1 + 2/6 + (-1)/3 + 2/6...
     q4.py - Jogo de Corrida e Informa o Vencedor (???)
     q5.py - Gerar Trios Númericos entre 0 a 200

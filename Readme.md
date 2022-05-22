@@ -28,7 +28,7 @@
     q3.py - Escolher 3 númeos inteiros e distintos. Maior que 0 e menor que 30.
     q4.py - Ler, Nome, Idade e Sexo. Informa a Mulher Mais Velha e Idade do Homem mais novo
     q5.py - Calcula o Lucro de um Estacionamento de um Shopping
-    q6.py - O programa que gere 5 palpites para apostar na mega-sena
+    q6.py - O programa que gera Palpites para apostar na mega-sena
     q7.py - Leia a média de 20 alunos e informe quantos foram aprovados. A nota mínima para aprovação é 7.
     q8.py - O Sistema Informa o escolhido para Defender Asgard
     q9.py - O Sistema Informa qual jogo para PlayStation é o favorito entre 35 Alunos
@@ -36,7 +36,7 @@
 .
 #### 3.Simulado
     q1.py - Gera 50 números e Imprimir os N. Pares e Impares
-    q2.py - Ler 2 números e informa se é múltiplo de 2 e 3.
+    q2.py - Ler um números e informa se é múltiplo de 2 e 3.
     q3.py - Exibe 30 termos do Somátorio: S = 2/3 + 6/4 + 3/1 + 2/6 + (-1)/3 + 2/6...
     q4.py - Jogo de Corrida e Informa o Vencedor (???)
     q5.py - Gerar Trios Númericos entre 0 a 200

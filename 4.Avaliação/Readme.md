@@ -3,6 +3,9 @@
 #### ALUNO:
     Erimilson Edilson Silva Ribeiro
 .
+##### ENTREGUE
+    Domingo 22/05/2022 ás 00h25m
+.
 #### DISCIPLINA
     Introdução a Lógica de Programação
 .
